@@ -1,6 +1,6 @@
 ## Olá eu sou o Igor Natan, Estudande de ADS e se especializando em Front-End!
 <div align="center">
-  
+  <h3>
   <a href="https://github.com/IgorNatann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&langs_count=7&theme=dark"/>
@@ -12,6 +12,8 @@
 <a href="https://igornatann.github.io/cloneNetflix/">Projeto Clone interface Netflix</a>
 /
 <a href="https://igornatann.github.io/sal-odebeleza/">Projeto BeautySalon</a>
+/
+<a href="https://igornatann.github.io/cloneLayoutInstagram/">Projeto Clone interface Instagram</a>
 </div>
 
 <div style="display: inline_block"><br>
