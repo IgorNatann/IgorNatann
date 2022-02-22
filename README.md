@@ -8,6 +8,10 @@
 </div>
 
 <div style="display: inline_block"><br>
+<h3> Segue últimos projetos </h3>
+</div>
+
+<div style="display: inline_block"><br>
   
   <img align="center" alt="Igor-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
