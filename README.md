@@ -1,8 +1,8 @@
 ## Olá eu sou o Igor Natan, Estudande de ADS e se especializando em Front-End!
 <div align="center">
-  <h2>Me acompanhe no Linkedln <br>
+  <h3>Me acompanhe no Linkedln <br>
   <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </h2>
+  </h3>
 
   <h3>
   <a href="https://github.com/IgorNatann">
