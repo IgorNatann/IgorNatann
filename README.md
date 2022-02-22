@@ -8,7 +8,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-<h3> Segue últimos projetos </h3>
+<h3>Últimos projetos desenvolvidos </h3>
+<link href="https://igornatann.github.io/cloneNetflix/">
 </div>
 
 <div style="display: inline_block"><br>
