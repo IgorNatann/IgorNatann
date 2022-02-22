@@ -9,7 +9,8 @@
 
 <div style="display: inline_block"><br>
 <h3>Últimos projetos desenvolvidos </h3>
-<a href="https://igornatann.github.io/cloneNetflix/">Projeto Clone interface Netflix</a> 
+<a href="https://igornatann.github.io/cloneNetflix/">Projeto Clone interface Netflix</a>
+/
 <a href="https://igornatann.github.io/sal-odebeleza/">Projeto BeautySalon</a>
 </div>
 
