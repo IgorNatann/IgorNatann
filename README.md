@@ -1,5 +1,7 @@
 ## Olá eu sou o Igor Natan, Estudande de ADS e se especializando em Front-End!
 <div align="center">
+  <h2>Me acompanhe no Linkedln</h2>
+  <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h3>
   <a href="https://github.com/IgorNatann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +30,5 @@
   ##
  
 <div> 
-  <a href = "mailto:igornatan4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:igornatan4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
