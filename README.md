@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
 <h3>Últimos projetos desenvolvidos </h3>
-<link href="https://igornatann.github.io/cloneNetflix/">
+<a href="https://igornatann.github.io/cloneNetflix/">Clone Netflix</a>
 </div>
 
 <div style="display: inline_block"><br>
