@@ -13,11 +13,11 @@
 
 <div style="display: inline_block"><br>
 <h3>Últimos projetos desenvolvidos </h3>
-<a href="https://igornatann.github.io/cloneNetflix/">Projeto Clone interface Netflix</a>
+<a href="https://igornatann.github.io/cloneNetflix/" target="_blank">Projeto Clone interface Netflix</a>
 /
-<a href="https://igornatann.github.io/sal-odebeleza/">Projeto BeautySalon</a>
+<a href="https://igornatann.github.io/sal-odebeleza/" target="_blank">Projeto BeautySalon</a>
 /
-<a href="https://igornatann.github.io/cloneLayoutInstagram/">Projeto Clone interface Instagram</a>
+<a href="https://igornatann.github.io/cloneLayoutInstagram/" target="_blank">Projeto Clone interface Instagram</a>
 </div>
 
 <div style="display: inline_block"><br>
