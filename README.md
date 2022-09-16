@@ -1,4 +1,4 @@
-## Olá eu sou o Igor Natan, Estudande de ADS e se especializando em Front-End!
+## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, estou no ultimo semestre de ADS. E sou Desenvolvedor Front-End 😎 !
 <div align="center">
   <h3>Me acompanhe no Linkedln <br> <br>
   <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -14,10 +14,12 @@
 <div style="display: inline_block"><br>
 <h3>Últimos projetos desenvolvidos </h3>
 <a href="https://igornatann.github.io/salaoDeBeleza/" target="_blank">Projeto BeautySalon</a>
-/
+|
 <a href="https://igornatann.github.io/projetoPokedex/" target="_blank">Projeto Pokédex</a>
-/
-<a href="https://igornatann.github.io/cloneNetflix/" target="_blank">Projeto Clone interface Netflix</a>
+|
+<a href="https://igornatann.github.io/eSports/" target="_blank">Projeto eSports</a>
+
+<a href="https://igornatann.github.io/landingPageBalleBot/" target="_blank">Projeto BalleBot</a>
 
 </div>
 
@@ -28,9 +30,9 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-</div>
+</div> <br>
 
-  ##
+  ## Contato ✉️
  
 <div> 
   <a href = "mailto:igornatan4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
