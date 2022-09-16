@@ -9,7 +9,6 @@
   <a href="https://github.com/IgorNatann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&langs_count=7&theme=dark"/>
-    
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +18,7 @@
 <a href="https://igornatann.github.io/projetoPokedex/" target="_blank">Projeto Pokédex</a>
 |
 <a href="https://igornatann.github.io/eSports/" target="_blank">Projeto eSports</a>
-
+|
 <a href="https://igornatann.github.io/landingPageBalleBot/" target="_blank">Projeto BalleBot</a>
 
 </div>
@@ -38,13 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="Igor-NodeJs" width="30" height="40"/>         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="Igor-Ts" width="30" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" align="center" alt="Igor-TW" width="30" height="40"/>
-          
-          
-          
-          
-          
-          
-
 
 </div> <br>
 
