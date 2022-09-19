@@ -23,7 +23,7 @@
 
 </div> <br>
 
-<h3>Tecnologias de conhecimento </h3>
+<h3>Tecnologias de conheciment 🛠️</h3>
 <div style="display: inline_block"><br>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" alt="Igor-Js" height="30" width="40"/>
