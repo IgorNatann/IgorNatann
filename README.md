@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, estou no ultimo semestre de ADS. E sou Desenvolvedor Front-End 😎 !
+## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, estou no ultimo semestre de ADS. E sou Desenvolvedor Front-End 😎!
 
 <div align="center">
   <h3>Me acompanhe no Linkedln <br> <br>
@@ -21,8 +21,9 @@
 |
 <a href="https://igornatann.github.io/landingPageBalleBot/" target="_blank">Projeto BalleBot</a>
 
-</div>
+</div> <br>
 
+<h3>Tecnologias de conhecimento </h3>
 <div style="display: inline_block"><br>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" alt="Igor-Js" height="30" width="40"/>
