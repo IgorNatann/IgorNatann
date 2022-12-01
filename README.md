@@ -15,11 +15,13 @@
 <h3>Últimos projetos desenvolvidos 🧑🏼‍💻</h3>
 <a href="https://igornatann.github.io/salaoDeBeleza/" target="_blank">Projeto BeautySalon</a>
 |
-<a href="https://igornatann.github.io/projetoPokedex/" target="_blank">Projeto Pokédex</a>
+<a href="https://igornatann.github.io/aluraBooks/" target="_blank">Projeto AluraBooks</a>
 |
-<a href="https://igornatann.github.io/eSports/" target="_blank">Projeto eSports</a>
+<a href="https://igornatann.github.io/Culturama/" target="_blank">Projeto Culturama</a>
 |
-<a href="https://igornatann.github.io/landingPageBalleBot/" target="_blank">Projeto BalleBot</a>
+<a href="https://igornatann.github.io/Cast/" target="_blank">Projeto Podcast</a>
+|
+<a href="https://igornatann.github.io/AluraPlay/" target="_blank">Projeto AluraPlay</a>
 
 </div> <br>
 
