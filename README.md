@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, estou no ultimo semestre de ADS. E sou Desenvolvedor Front-End 😎!
+## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, tenho 23 anos sou Formado em ADS. E sou Desenvolvedor Front-End 😎!
 
 <div align="center">
   <h3>Me acompanhe no Linkedln <br> <br>
