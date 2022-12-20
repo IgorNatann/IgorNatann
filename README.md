@@ -1,14 +1,14 @@
-## Olá! Bem vindo ao meu Git Hub 😃! Me chamo Igor Natan, tenho 23 anos sou Formado em ADS. E sou Desenvolvedor Front-End 😎!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=header"/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Igor+Natan;Tenho+23+anos,+Sou+Dev+Front+end;Gradutado+em+Analise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
+
   <h3>Me acompanhe no Linkedln <br> <br>
   <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </h3>
-
-  <h3>
-  <a href="https://github.com/IgorNatann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,29 +25,27 @@
 
 </div> <br>
 
-<h3>Tecnologias de conheciment 🛠️</h3>
-<div style="display: inline_block"><br>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" alt="Igor-Js" height="30" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  align="center" alt="Igor-React" height="30" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="Igor-HTML" height="30" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="Igor-CSS" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" alt="Igor-GIT" width="30" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" alt="Igor-BootStrap" width="30" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" alt="Igor-Figma" width="30" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="center" alt="Igor-GitHub" width="30" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" alt="Igor-MySql" width="30" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="Igor-NodeJs" width="30" height="40"/>         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="Igor-Ts" width="30" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" align="center" alt="Igor-TW" width="30" height="40"/>
+### Minhas skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-</div> <br>
+### Estudando neste momento:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; <br>
 
 ## Contato ✉️
 
 <div> 
   <a href = "mailto:igornatan4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-![Snake animation](https://github.com/IgorNatann/IgorNatann/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=footer"/>
+
+  ![Snake animation](https://github.com/IgorNatann/IgorNatann/blob/output/github-contribution-grid-snake.svg)
 
 </div>
