@@ -13,15 +13,17 @@
 
 <div style="display: inline_block"><br>
 <h3>Últimos projetos desenvolvidos 🧑🏼‍💻</h3>
-<a href="https://igornatann.github.io/salaoDeBeleza/" target="_blank">Projeto BeautySalon</a>
+<a href="https://igornatann.github.io/salaoDeBeleza/" target="_blank">BeautySalon</a>
 |
-<a href="https://igornatann.github.io/aluraBooks/" target="_blank">Projeto AluraBooks</a>
+<a href="https://organo-alpha-indol.vercel.app/" target="_blank">Organo</a>
 |
-<a href="https://igornatann.github.io/Culturama/" target="_blank">Projeto Culturama</a>
+<a href="https://space-amber.vercel.app/" target="_blank">SpaceApp</a>
 |
-<a href="https://igornatann.github.io/Cast/" target="_blank">Projeto Podcast</a>
+<a href="https://igornatann.github.io/aluraBooks/" target="_blank">AluraBooks</a>
 |
-<a href="https://igornatann.github.io/AluraPlay/" target="_blank">Projeto AluraPlay</a>
+<a href="https://igornatann.github.io/Culturama/" target="_blank">Culturama</a>
+|
+<a href="https://igornatann.github.io/AluraPlay/" target="_blank">AluraPlay</a>
 
 </div> <br>
 
