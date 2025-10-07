@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Igor+Natan;Tenho+23+anos,+Sou+Dev+Front+end;Graduado+em+Analise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Igor+Natan;Tenho+25+anos;Sou+Graduado+em+ADS+e+com+MBA+em+Data+Science&Analysis;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" /> 
