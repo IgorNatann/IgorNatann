@@ -28,16 +28,22 @@
 </div> <br>
 
 ### Minhas skills:
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![DataModel](https://img.shields.io/badge/Modelagem_de_Dados-0D1117?style=for-the-badge&logo=databricks&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Databases](https://img.shields.io/badge/Bancos_de_Dados-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Big Data](https://img.shields.io/badge/Big_Data-0D1117?style=for-the-badge&logo=apache-spark&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Cloud](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=cloudflare&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
 ### Estudando neste momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; <br>
+![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apache-airflow&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0D1117)&nbsp;
+ <br>
 
 ## Contato ✉️
 
