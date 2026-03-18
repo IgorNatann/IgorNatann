@@ -16,7 +16,7 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 6 - Auditoria final V2`
+- Etapa atual: `V2 concluida`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -95,7 +95,7 @@ Criterios de aceite:
 Commit sugerido:
 `chore(ci): validar automacao e consistencia da v2`
 
-- [ ] Etapa 6 - Auditoria final V2
+- [x] Etapa 6 - Auditoria final V2
 Entregaveis:
 - Revisao final de texto, links, consistencia de narrativa e qualidade visual.
 - Checklist final de pronto para publicacao.
@@ -109,10 +109,10 @@ Commit sugerido:
 `docs(profile): fechar auditoria da v2 e validar publicacao`
 
 ## Checklist rapido de auditoria por etapa
-- [ ] Sem sinais de mojibake em `README.md`.
-- [ ] Links de projetos e contato abrindo corretamente.
-- [ ] Narrativa alinhada a Engenharia de Dados.
-- [ ] Mudancas da etapa isoladas no commit.
+- [x] Sem sinais de mojibake em `README.md`.
+- [x] Links de projetos e contato abrindo corretamente.
+- [x] Narrativa alinhada a Engenharia de Dados.
+- [x] Mudancas da etapa isoladas no commit.
 
 ## Comandos uteis para auditoria
 - `git diff -- README.md .github/workflows/cobrinha.yml BACKLOG_REDESIGN_PERFIL_V2.md`
