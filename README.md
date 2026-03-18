@@ -84,6 +84,6 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=footer"/>
 
-  ![Snake animation](https://github.com/IgorNatann/IgorNatann/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/IgorNatann/IgorNatann/output/github-contribution-grid-snake.svg)
 
 </div>
