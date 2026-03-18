@@ -14,7 +14,7 @@ Manter a animacao `snake` no README.
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 2 - Projetos em Destaque (Data Engineering)`
+- Etapa atual: `Etapa 3 - Stack e Trilhas de Estudo`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -44,7 +44,7 @@ Criterios de aceite:
 Commit sugerido:
 `feat(profile): atualizar hero e posicionamento para engenharia de dados`
 
-- [ ] Etapa 2 - Projetos em Destaque (Data Engineering)
+- [x] Etapa 2 - Projetos em Destaque (Data Engineering)
 Entregaveis:
 - Substituir bloco de projetos atuais por projetos de dados.
 - Para cada projeto, incluir: problema, stack principal e link.

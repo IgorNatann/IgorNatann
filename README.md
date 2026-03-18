@@ -21,22 +21,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-<h3>Últimos projetos desenvolvidos 🧑🏼‍💻</h3>
-<a href="https://igornatann.github.io/salaoDeBeleza/" target="_blank">BeautySalon</a>
-|
-<a href="https://organo-alpha-indol.vercel.app/" target="_blank">Organo</a>
-|
-<a href="https://space-amber.vercel.app/" target="_blank">SpaceApp</a>
-|
-<a href="https://igornatann.github.io/aluraBooks/" target="_blank">AluraBooks</a>
-|
-<a href="https://igornatann.github.io/Culturama/" target="_blank">Culturama</a>
-|
-<a href="https://igornatann.github.io/AluraPlay/" target="_blank">AluraPlay</a>
-
-</div> <br>
-
+## Projetos em destaque (Data Engineering)
+- **[project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)** - Problema: integrar dados de e-commerce de ponta a ponta (OLTP -> DW) para analise confiavel. Stack: SQL Server, Python, Docker, Streamlit, modelagem dimensional.
+- **[projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)** - Problema: consolidar multiplos JSONs de vendas e padronizar saida analitica. Stack: Python, Pandas, ETL, CSV, Parquet.
+- **[project_dw_ataca_dez](https://github.com/IgorNatann/project_dw_ataca_dez)** - Problema: estruturar um DW de atacado com camadas de dados e integracao ETL. Stack: SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
+- **[projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)** - Problema: organizar transformacoes em arquitetura medalhao para analytics local. Stack: dbt, MySQL, Docker, SQL.
+- **[project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)** - Problema: criar plataforma analitica de ingestao ate camada de consumo. Stack: SQL Server, T-SQL, ETL, Data Warehouse.
+<br>
 ### Minhas skills:
 ![DataModel](https://img.shields.io/badge/Modelagem_de_Dados-0D1117?style=for-the-badge&logo=databricks&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Databases](https://img.shields.io/badge/Bancos_de_Dados-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117)&nbsp;
