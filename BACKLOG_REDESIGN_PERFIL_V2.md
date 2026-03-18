@@ -16,7 +16,7 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 4 - Credibilidade e atualizacao`
+- Etapa atual: `Etapa 5 - Automacao e consistencia do README`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -71,7 +71,7 @@ Criterios de aceite:
 Commit sugerido:
 `refactor(profile): melhorar hierarquia visual e escaneabilidade`
 
-- [ ] Etapa 4 - Credibilidade e atualizacao
+- [x] Etapa 4 - Credibilidade e atualizacao
 Entregaveis:
 - Adicionar bloco "Foco atual" ou "Roadmap tecnico" com trilhas reais de estudo.
 - Revisar stack principal vs em evolucao para evitar redundancia.

@@ -67,10 +67,15 @@
 - **Cloud/DevOps:** Docker, AWS, GitHub Actions
 
 ## Em evolucao
-- **Dados:** dbt para transformacoes SQL modulares e testes de qualidade
-- **Arquitetura:** Lakehouse e camadas medallion (Bronze, Silver, Gold)
-- **Orquestracao:** monitoramento e confiabilidade de pipelines no Airflow
-- **Cloud/DevOps:** Kubernetes e Databricks
+- **Dados:** dbt para modelagem modular, testes de dados e documentacao tecnica
+- **Arquitetura:** padronizacao de camadas medallion (Bronze, Silver, Gold)
+- **Orquestracao:** observabilidade de pipelines (SLA, retry, falhas e reprocessamento)
+- **Cloud/DevOps:** aprofundamento em Kubernetes e Databricks para escala operacional
+
+## Foco tecnico atual (90 dias)
+- **Confiabilidade de pipelines:** elevar monitoramento e resposta a falhas em fluxos ETL.
+- **Qualidade de dados:** ampliar testes automatizados em SQL/dbt para camadas analiticas.
+- **Padronizacao arquitetural:** consolidar padroes de modelagem dimensional e camadas medallion.
 
 ## Contato
 
