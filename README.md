@@ -28,11 +28,30 @@
 - Mantenho a operacao com monitoramento e melhoria continua de qualidade de dados.
 
 ## Projetos em destaque (Engenharia de Dados)
-- **[project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)** - Problema: integrar dados de e-commerce de ponta a ponta (OLTP -> DW) para analise confiavel. Stack: SQL Server, Python, Docker, Streamlit, modelagem dimensional.
-- **[projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)** - Problema: consolidar multiplos JSONs de vendas e padronizar saida analitica. Stack: Python, Pandas, ETL, CSV, Parquet.
-- **[project_dw_ataca_dez](https://github.com/IgorNatann/project_dw_ataca_dez)** - Problema: estruturar um DW de atacado com camadas de dados e integracao ETL. Stack: SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
-- **[projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)** - Problema: organizar transformacoes em arquitetura medalhao para analytics local. Stack: dbt, MySQL, Docker, SQL.
-- **[project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)** - Problema: criar plataforma analitica de ingestao ate camada de consumo. Stack: SQL Server, T-SQL, ETL, Data Warehouse.
+### [project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)
+- **Contexto:** consolidar dados de e-commerce de ponta a ponta para analise confiavel.
+- **Stack:** SQL Server, Python, Docker, Streamlit, modelagem dimensional.
+- **Evidencias de escopo:** fluxo `OLTP -> DW`, ETL incremental com watermark, dimensoes e fatos com monitoramento operacional.
+
+### [projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)
+- **Contexto:** consolidar multiplos arquivos JSON de vendas em base analitica unica.
+- **Stack:** Python, Pandas, ETL batch, CSV, Parquet.
+- **Evidencias de escopo:** leitura de varios JSONs, consolidacao em DataFrame e saida padronizada em `csv/parquet`.
+
+### [project_dw_ataca_dez](https://github.com/IgorNatann/project_dw_ataca_dez)
+- **Contexto:** estruturar ambiente de BI para atacado com dados integrados para analise.
+- **Stack:** SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
+- **Evidencias de escopo:** construcao de camadas de Data Lake e DW, pacote SSIS de carga e modelo dimensional com tabela fato/dimensoes.
+
+### [projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)
+- **Contexto:** organizar transformacoes analiticas em arquitetura de dados por camadas.
+- **Stack:** dbt, MySQL, Docker, SQL, Python.
+- **Evidencias de escopo:** arquitetura `Bronze/Silver/Gold` com pipeline local para limpeza, padronizacao e agregacoes.
+
+### [project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)
+- **Contexto:** construir plataforma de DW para consolidar fontes e suportar analytics.
+- **Stack:** SQL Server, T-SQL, ETL, Data Warehouse.
+- **Evidencias de escopo:** modelagem com camadas medallion, ingestao de fontes ERP/CRM e estrutura para consumo analitico.
 ## Stack principal
 - **Linguagens:** Python, SQL (T-SQL)
 - **Dados:** ETL batch, modelagem dimensional (Kimball), Data Warehouse, qualidade de dados
