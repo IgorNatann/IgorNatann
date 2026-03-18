@@ -16,13 +16,13 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 0 - Planejamento V2`
+- Etapa atual: `Etapa 2 - Projetos com prova de escopo`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
 ## Etapas
 
-- [ ] Etapa 0 - Planejamento V2
+- [x] Etapa 0 - Planejamento V2
 Entregaveis:
 - Criar backlog V2 versionado.
 - Definir foco da V2: autoridade tecnica + narrativa de impacto + legibilidade.
@@ -34,7 +34,7 @@ Criterios de aceite:
 Commit sugerido:
 `chore(profile): criar backlog da v2 com plano de refinamento`
 
-- [ ] Etapa 1 - Reforco de narrativa tecnica
+- [x] Etapa 1 - Reforco de narrativa tecnica
 Entregaveis:
 - Ajustar headline e resumo para comunicar valor tecnico e tipo de problema resolvido.
 - Incluir um bloco curto "Como gero valor com dados".

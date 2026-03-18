@@ -3,11 +3,11 @@
 <h1 align="center">Igor Natan | Engenharia de Dados</h1>
 
 <p align="center">
-  Projeto e opero pipelines de dados com foco em ETL, Data Warehouse, modelagem dimensional e qualidade de dados.
+  Transformo dados operacionais em ativos analiticos confiaveis para decisao de negocio.
 </p>
 
 <p align="center">
-  Stack principal: Python, SQL, Airflow, dbt, Docker e AWS.
+  Atuacao tecnica: ETL, Data Warehouse, modelagem dimensional, qualidade de dados e orquestracao de pipelines.
 </p>
 
 <p align="center">
@@ -20,6 +20,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+## Como gero valor com dados
+- Estruturo dados brutos em modelos analiticos consistentes para consumo de BI e analytics.
+- Construo pipelines ETL reprodutiveis com foco em confiabilidade, rastreabilidade e manutencao.
+- Projeto camadas de dados (staging, dimensoes e fatos) para consultas rapidas e metricas confiaveis.
+- Mantenho a operacao com monitoramento e melhoria continua de qualidade de dados.
 
 ## Projetos em destaque (Engenharia de Dados)
 - **[project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)** - Problema: integrar dados de e-commerce de ponta a ponta (OLTP -> DW) para analise confiavel. Stack: SQL Server, Python, Docker, Streamlit, modelagem dimensional.
