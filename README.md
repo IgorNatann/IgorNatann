@@ -1,14 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=100ACB&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+Chamo+Igor+Natan;Tenho+25+anos;Sou+Graduado+em+ADS+e+com+MBA+em+Data+Science&Analysis;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Igor Natan | Engenharia de Dados</h1>
 
-<div align="center">  
+<p align="center">
+  Projeto e opero pipelines de dados com foco em ETL, Data Warehouse, modelagem dimensional e qualidade de dados.
+</p>
+
+<p align="center">
+  Stack principal: Python, SQL, Airflow, dbt, Docker e AWS.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-natan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
+
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
-
-  <h3>Me acompanhe no Linkedln <br> <br>
-  <a href="https://www.linkedin.com/in/igor-natan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </h3>
 </div>
 
 <div style="display: inline_block"><br>
