@@ -16,7 +16,7 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 2 - Projetos com prova de escopo`
+- Etapa atual: `Etapa 3 - Hierarquia visual e escaneabilidade`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -46,7 +46,7 @@ Criterios de aceite:
 Commit sugerido:
 `feat(profile): reforcar narrativa tecnica e proposta de valor`
 
-- [ ] Etapa 2 - Projetos com prova de escopo
+- [x] Etapa 2 - Projetos com prova de escopo
 Entregaveis:
 - Evoluir secao de projetos para formato mais auditavel (contexto do problema + stack + evidencia de escopo).
 - Padronizar estrutura de cada item.
