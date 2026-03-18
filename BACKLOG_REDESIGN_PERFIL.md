@@ -14,7 +14,7 @@ Manter a animacao `snake` no README.
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 3 - Stack e Trilhas de Estudo`
+- Etapa atual: `Etapa 4 - Visual e Qualidade de Conteudo`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -57,7 +57,7 @@ Criterios de aceite:
 Commit sugerido:
 `feat(profile): destacar projetos de engenharia de dados com contexto tecnico`
 
-- [ ] Etapa 3 - Stack e Trilhas de Estudo
+- [x] Etapa 3 - Stack e Trilhas de Estudo
 Entregaveis:
 - Reorganizar skills em blocos coerentes (Linguagens, Dados, Orquestracao, Cloud/DevOps).
 - Revisar secao de estudos atuais para ficar aderente ao posicionamento.
