@@ -16,7 +16,7 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 3 - Hierarquia visual e escaneabilidade`
+- Etapa atual: `Etapa 4 - Credibilidade e atualizacao`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -59,7 +59,7 @@ Criterios de aceite:
 Commit sugerido:
 `feat(profile): padronizar projetos com evidencia tecnica de escopo`
 
-- [ ] Etapa 3 - Hierarquia visual e escaneabilidade
+- [x] Etapa 3 - Hierarquia visual e escaneabilidade
 Entregaveis:
 - Melhorar hierarquia entre secoes (titulos, espacamento, ordem de leitura).
 - Reduzir blocos longos e priorizar listas objetivas.
