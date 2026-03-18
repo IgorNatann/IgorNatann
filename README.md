@@ -21,6 +21,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+## Sumario
+- [Como gero valor com dados](#como-gero-valor-com-dados)
+- [Projetos em destaque](#projetos-em-destaque-engenharia-de-dados)
+- [Stack principal](#stack-principal)
+- [Em evolucao](#em-evolucao)
+- [Contato](#contato)
+
 ## Como gero valor com dados
 - Estruturo dados brutos em modelos analiticos consistentes para consumo de BI e analytics.
 - Construo pipelines ETL reprodutiveis com foco em confiabilidade, rastreabilidade e manutencao.
@@ -29,29 +36,30 @@
 
 ## Projetos em destaque (Engenharia de Dados)
 ### [project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)
-- **Contexto:** consolidar dados de e-commerce de ponta a ponta para analise confiavel.
+- **Contexto:** consolidacao de dados de e-commerce para analise confiavel.
 - **Stack:** SQL Server, Python, Docker, Streamlit, modelagem dimensional.
-- **Evidencias de escopo:** fluxo `OLTP -> DW`, ETL incremental com watermark, dimensoes e fatos com monitoramento operacional.
+- **Evidencias:** fluxo `OLTP -> DW`, ETL incremental com watermark, dimensoes e fatos monitorados.
 
 ### [projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)
-- **Contexto:** consolidar multiplos arquivos JSON de vendas em base analitica unica.
+- **Contexto:** consolidacao de arquivos JSON de vendas em base analitica unica.
 - **Stack:** Python, Pandas, ETL batch, CSV, Parquet.
-- **Evidencias de escopo:** leitura de varios JSONs, consolidacao em DataFrame e saida padronizada em `csv/parquet`.
+- **Evidencias:** leitura de varios JSONs, consolidacao em DataFrame e saida em `csv/parquet`.
 
 ### [project_dw_ataca_dez](https://github.com/IgorNatann/project_dw_ataca_dez)
-- **Contexto:** estruturar ambiente de BI para atacado com dados integrados para analise.
+- **Contexto:** estruturacao de ambiente BI para atacado com dados integrados.
 - **Stack:** SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
-- **Evidencias de escopo:** construcao de camadas de Data Lake e DW, pacote SSIS de carga e modelo dimensional com tabela fato/dimensoes.
+- **Evidencias:** camadas de Data Lake e DW, pacote SSIS de carga e modelo com fato/dimensoes.
 
 ### [projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)
-- **Contexto:** organizar transformacoes analiticas em arquitetura de dados por camadas.
+- **Contexto:** organizacao de transformacoes analiticas por camadas.
 - **Stack:** dbt, MySQL, Docker, SQL, Python.
-- **Evidencias de escopo:** arquitetura `Bronze/Silver/Gold` com pipeline local para limpeza, padronizacao e agregacoes.
+- **Evidencias:** arquitetura `Bronze/Silver/Gold` com pipeline local de limpeza e padronizacao.
 
 ### [project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)
-- **Contexto:** construir plataforma de DW para consolidar fontes e suportar analytics.
+- **Contexto:** construcao de plataforma DW para consolidar fontes e suportar analytics.
 - **Stack:** SQL Server, T-SQL, ETL, Data Warehouse.
-- **Evidencias de escopo:** modelagem com camadas medallion, ingestao de fontes ERP/CRM e estrutura para consumo analitico.
+- **Evidencias:** modelagem medallion, ingestao de fontes ERP/CRM e estrutura de consumo analitico.
+
 ## Stack principal
 - **Linguagens:** Python, SQL (T-SQL)
 - **Dados:** ETL batch, modelagem dimensional (Kimball), Data Warehouse, qualidade de dados
