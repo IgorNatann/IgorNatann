@@ -28,23 +28,18 @@
 - **[projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)** - Problema: organizar transformacoes em arquitetura medalhao para analytics local. Stack: dbt, MySQL, Docker, SQL.
 - **[project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)** - Problema: criar plataforma analitica de ingestao ate camada de consumo. Stack: SQL Server, T-SQL, ETL, Data Warehouse.
 <br>
-### Minhas skills:
-![DataModel](https://img.shields.io/badge/Modelagem_de_Dados-0D1117?style=for-the-badge&logo=databricks&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Databases](https://img.shields.io/badge/Bancos_de_Dados-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Big Data](https://img.shields.io/badge/Big_Data-0D1117?style=for-the-badge&logo=apache-spark&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Cloud](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=cloudflare&logoColor=1572B6&labelColor=0D1117)&nbsp;
+## Stack principal
+- **Linguagens:** Python, SQL (T-SQL)
+- **Dados:** ETL batch, modelagem dimensional (Kimball), Data Warehouse, qualidade de dados
+- **Orquestracao:** Airflow (DAGs, scheduling, retries)
+- **Cloud/DevOps:** Docker, AWS, GitHub Actions
 
-
-### Estudando neste momento:
-![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apache-airflow&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0D1117)&nbsp;
- <br>
+## Em evolucao
+- **Dados:** dbt para transformacoes SQL modulares e testes de qualidade
+- **Arquitetura:** Lakehouse e camadas medallion (Bronze, Silver, Gold)
+- **Orquestracao:** monitoramento e confiabilidade de pipelines no Airflow
+- **Cloud/DevOps:** Kubernetes e Databricks
+<br>
 
 ## Contato ✉️
 
