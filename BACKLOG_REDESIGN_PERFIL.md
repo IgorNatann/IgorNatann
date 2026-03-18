@@ -14,7 +14,7 @@ Manter a animacao `snake` no README.
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 4 - Visual e Qualidade de Conteudo`
+- Etapa atual: `Etapa 5 - Workflow (Snake + Modernizacao)`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -69,7 +69,7 @@ Criterios de aceite:
 Commit sugerido:
 `refactor(profile): reorganizar stack principal e trilha de estudos`
 
-- [ ] Etapa 4 - Visual e Qualidade de Conteudo
+- [x] Etapa 4 - Visual e Qualidade de Conteudo
 Entregaveis:
 - Simplificar layout geral do README.
 - Corrigir erros textuais e padronizar linguagem.
