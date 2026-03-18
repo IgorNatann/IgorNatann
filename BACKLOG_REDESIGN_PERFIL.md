@@ -14,7 +14,7 @@ Manter a animacao `snake` no README.
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 5 - Workflow (Snake + Modernizacao)`
+- Etapa atual: `Etapa 6 - Auditoria Final V1`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -82,7 +82,7 @@ Criterios de aceite:
 Commit sugerido:
 `fix(profile): padronizar texto, encoding e legibilidade do README`
 
-- [ ] Etapa 5 - Workflow (Snake + Modernizacao)
+- [x] Etapa 5 - Workflow (Snake + Modernizacao)
 Entregaveis:
 - Manter geracao da `snake`.
 - Atualizar actions para versoes mais atuais/estaveis.
