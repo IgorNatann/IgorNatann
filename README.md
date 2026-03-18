@@ -21,13 +21,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## Projetos em destaque (Data Engineering)
+## Projetos em destaque (Engenharia de Dados)
 - **[project_e_commerce_dw](https://github.com/IgorNatann/project_e_commerce_dw)** - Problema: integrar dados de e-commerce de ponta a ponta (OLTP -> DW) para analise confiavel. Stack: SQL Server, Python, Docker, Streamlit, modelagem dimensional.
 - **[projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)** - Problema: consolidar multiplos JSONs de vendas e padronizar saida analitica. Stack: Python, Pandas, ETL, CSV, Parquet.
 - **[project_dw_ataca_dez](https://github.com/IgorNatann/project_dw_ataca_dez)** - Problema: estruturar um DW de atacado com camadas de dados e integracao ETL. Stack: SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
 - **[projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)** - Problema: organizar transformacoes em arquitetura medalhao para analytics local. Stack: dbt, MySQL, Docker, SQL.
 - **[project_analytics_warehouse_platform](https://github.com/IgorNatann/project_analytics_warehouse_platform)** - Problema: criar plataforma analitica de ingestao ate camada de consumo. Stack: SQL Server, T-SQL, ETL, Data Warehouse.
-<br>
 ## Stack principal
 - **Linguagens:** Python, SQL (T-SQL)
 - **Dados:** ETL batch, modelagem dimensional (Kimball), Data Warehouse, qualidade de dados
@@ -39,13 +38,10 @@
 - **Arquitetura:** Lakehouse e camadas medallion (Bronze, Silver, Gold)
 - **Orquestracao:** monitoramento e confiabilidade de pipelines no Airflow
 - **Cloud/DevOps:** Kubernetes e Databricks
-<br>
 
-## Contato ✉️
+## Contato
 
-<div> 
-  <a href = "mailto:igornatan4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igornatan4@gmail.com)
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100ACB&height=120&section=footer"/>
