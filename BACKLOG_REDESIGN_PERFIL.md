@@ -14,7 +14,7 @@ Manter a animacao `snake` no README.
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 6 - Auditoria Final V1`
+- Etapa atual: `V1 concluida`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -95,7 +95,7 @@ Criterios de aceite:
 Commit sugerido:
 `chore(ci): modernizar workflow mantendo snake e summary cards`
 
-- [ ] Etapa 6 - Auditoria Final V1
+- [x] Etapa 6 - Auditoria Final V1
 Entregaveis:
 - Revisao final de links, secoes e consistencia do posicionamento.
 - Checklist final de pronto para merge/publicacao.
@@ -109,13 +109,13 @@ Commit sugerido:
 `docs(profile): fechar auditoria da v1 e validar pronto para publicacao`
 
 ## Checklist rapido de auditoria por etapa
-- [ ] Sem caracteres quebrados em `README.md`.
-- [ ] Links dos projetos abrindo corretamente.
-- [ ] Texto alinhado ao posicionamento de Engenharia de Dados.
-- [ ] Mudancas da etapa isoladas no commit.
+- [x] Sem caracteres quebrados em `README.md`.
+- [x] Links dos projetos abrindo corretamente.
+- [x] Texto alinhado ao posicionamento de Engenharia de Dados.
+- [x] Mudancas da etapa isoladas no commit.
 
 ## Comandos uteis para auditoria
 - `git diff -- README.md .github/workflows/cobrinha.yml BACKLOG_REDESIGN_PERFIL.md`
-- `rg -n "[^\\x00-\\x7F]" README.md`
+- `rg -n "Ã.|â.|ð.|�" README.md`
 - `rg -n "http|https" README.md`
 - `git status --short`
