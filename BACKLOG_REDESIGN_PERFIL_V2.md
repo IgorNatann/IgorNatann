@@ -16,7 +16,7 @@ Refinar o perfil para aumentar clareza, autoridade tecnica e legibilidade, mante
 5. Marcar a etapa como concluida neste backlog.
 
 ## Quadro de status
-- Etapa atual: `Etapa 5 - Automacao e consistencia do README`
+- Etapa atual: `Etapa 6 - Auditoria final V2`
 - Regra: nao iniciar a proxima etapa sem fechar a anterior.
 - Evidencia minima por etapa: diff revisado + checklist de auditoria validado.
 
@@ -83,7 +83,7 @@ Criterios de aceite:
 Commit sugerido:
 `feat(profile): adicionar foco tecnico atual e alinhar trilhas`
 
-- [ ] Etapa 5 - Automacao e consistencia do README
+- [x] Etapa 5 - Automacao e consistencia do README
 Entregaveis:
 - Revisar workflow e referencias dinamicas para garantir consistencia da V2.
 - Confirmar manutencao da `snake` e dos cards de stats.
