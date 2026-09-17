@@ -41,7 +41,7 @@
 - **Stack:** SQL Server, Python, Docker, Streamlit, modelagem dimensional.
 - **Evidencias:** fluxo `OLTP -> DW`, ETL incremental com watermark, dimensoes e fatos monitorados.
 
-### [projetc_etl_consolidacao_vendas](https://github.com/IgorNatann/projetc_etl_consolidacao_vendas)
+### [projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)
 - **Contexto:** consolidacao de arquivos JSON de vendas em base analitica unica.
 - **Stack:** Python, Pandas, ETL batch, CSV, Parquet.
 - **Evidencias:** leitura de varios JSONs, consolidacao em DataFrame e saida em `csv/parquet`.
