@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/igor-natan/" target="_blank">
+  <a href="https://www.linkedin.com/in/igornatan/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=IgorNatann&show_icons=true&count_private=true&hide_border=true&title_color=100ACB&icon_color=2E29C7&text_color=c9d1d9&bg_color=0d1117" alt="Igor Natan github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IgorNatann&layout=compact&hide_border=true&title_color=100ACB&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Sumario
@@ -26,6 +26,7 @@
 - [Projetos em destaque](#projetos-em-destaque-engenharia-de-dados)
 - [Stack principal](#stack-principal)
 - [Em evolucao](#em-evolucao)
+- [Foco tecnico atual](#foco-tecnico-atual-90-dias)
 - [Contato](#contato)
 
 ## Como gero valor com dados
@@ -40,7 +41,7 @@
 - **Stack:** SQL Server, Python, Docker, Streamlit, modelagem dimensional.
 - **Evidencias:** fluxo `OLTP -> DW`, ETL incremental com watermark, dimensoes e fatos monitorados.
 
-### [projeto_etl_consolidacao_vendas](https://github.com/IgorNatann/projeto_etl_consolidacao_vendas)
+### [projetc_etl_consolidacao_vendas](https://github.com/IgorNatann/projetc_etl_consolidacao_vendas)
 - **Contexto:** consolidacao de arquivos JSON de vendas em base analitica unica.
 - **Stack:** Python, Pandas, ETL batch, CSV, Parquet.
 - **Evidencias:** leitura de varios JSONs, consolidacao em DataFrame e saida em `csv/parquet`.
@@ -50,7 +51,7 @@
 - **Stack:** SQL Server, T-SQL, SSIS, SSDT, modelagem dimensional.
 - **Evidencias:** camadas de Data Lake e DW, pacote SSIS de carga e modelo com fato/dimensoes.
 
-### [projeto_dados_dbt](https://github.com/IgorNatann/projeto_dados_dbt)
+### [project_etl_dbt_dw](https://github.com/IgorNatann/project_etl_dbt_dw)
 - **Contexto:** organizacao de transformacoes analiticas por camadas.
 - **Stack:** dbt, MySQL, Docker, SQL, Python.
 - **Evidencias:** arquitetura `Bronze/Silver/Gold` com pipeline local de limpeza e padronizacao.
@@ -67,7 +68,7 @@
 - **Cloud/DevOps:** Docker, AWS, GitHub Actions
 
 ## Em evolucao
-- **Dados:** dbt para modelagem modular, testes de dados e documentacao tecnica
+- **Dados:** aprofundar testes de dados e documentacao tecnica em dbt
 - **Arquitetura:** padronizacao de camadas medallion (Bronze, Silver, Gold)
 - **Orquestracao:** observabilidade de pipelines (SLA, retry, falhas e reprocessamento)
 - **Cloud/DevOps:** aprofundamento em Kubernetes e Databricks para escala operacional
